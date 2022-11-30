@@ -2,6 +2,7 @@
 #include <QHBoxLayout>
 #include <QPixmap>
 #include <QDebug>
+#include <QMouseEvent>
 
 CellViewDad::CellViewDad(QWidget *parent) : QWidget(parent)
 {

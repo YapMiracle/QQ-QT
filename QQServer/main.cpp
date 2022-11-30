@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
 
     //显示主界面
     MainUI w;
-    //w.show();
+    w.show();
 
     return a.exec();
 }
